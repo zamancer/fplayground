@@ -20,7 +20,12 @@
         }
     },
     "dependencies": {
+        "data.either": "^1.5.2",
+        "data.maybe": "^1.2.1",
+        "data.task": "^3.0.0",
         "folktale": "^2.3.2",
+        "immutable": "^4.0.0-rc.12",
+        "immutable-ext": "^1.1.5",
         "jest": "^25.3.0",
         "ramda": "^0.27.0"
     }
